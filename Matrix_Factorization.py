@@ -1,5 +1,5 @@
 """
-想用pytorch实现下 Matrix Factorization
+用pytorch实现下 Matrix Factorization
 """
 
 import torch
