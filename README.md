@@ -15,6 +15,8 @@
 
 使用的预训练文件下载地址：https://code.google.com/archive/p/word2vec/  下载GoogleNews-vectors-negative300.bin 文件放入data/embedding_data中
 
+使用方法：1. 运行processing_data.py文件 2. 运行train文件
+
 实验结果(mse)： office: 0.777, video_game: 1.182
 
 参考论文：L.zheng et al, Joint deep modeling of users and items using reviews for recommendation. WSDM2017.
