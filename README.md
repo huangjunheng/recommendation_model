@@ -5,5 +5,11 @@
 
 2 实现了FM(Factorization machines, 因子分解机), 在movielen 100k数据集上mse为0.852
 (只使用u, i, ratings 三元组的因子分解机与mf其实是一样的， 故在相同数据集上的结果也差不多）
-参考论文：Steffen Rendle, Factorization Machines, ICDM2010
+参考论文：Steffen Rendle, Factorization Machines, ICDM2010.
+
+3 DeepConn是第一篇使用深度学习模型利用评论信息进行推荐的文章，后面有很多改进工作如Transnets(ResSys2017), NARRE(www2018)等
+所以说，这是篇非常值得认真阅读和复现的论文。
+数据集下载地址：http://jmcauley.ucsd.edu/data/amazon/
+使用的预训练文件下载地址：https://code.google.com/archive/p/word2vec/  下载GoogleNews-vectors-negative300.bin 文件放入
+参考论文：L.zheng et al, Joint deep modeling of users and items using reviews for recommendation. WSDM2017.
 
