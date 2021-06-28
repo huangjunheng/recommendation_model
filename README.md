@@ -24,7 +24,7 @@
 4 MMOE是谷歌于2018年提出的一种多任务学习推荐模型，被用于YouTube视频推荐场景，效果良好，被业界广泛关注，我在实习时线上模型也采用了MMOE的改进模型，叫PLE。
 我在census数据集上进行实验，实验结果比原文差一点。
 
-实验结果(AUC)：'income'：0.931, 'marital':0.966  原文是0.941， 0.9927
+实验结果(AUC)：'income'：0.942, 'marital': 0.977  原文是0.941， 0.9927
 
 参考论文：J.Ma et al, Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts, KDD 2018.
           Z.Zhao et al, Recommending What Video to Watch Next: A Multitask Ranking System, RecSys 2019.
