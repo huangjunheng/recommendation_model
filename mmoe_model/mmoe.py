@@ -207,7 +207,7 @@ model = model.to(device)
 lr = 1e-4
 n_epochs = 80
 loss_fn = nn.BCELoss(reduction='mean')
-optimizer = optim.Adam(model.parameters(), lr=lr)
+optimizer = optim.Adam(model.parameters(), lr=lr, weight_decay=1e-5)
 losses = []
 val_loss = []
 
