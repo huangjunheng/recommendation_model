@@ -30,4 +30,6 @@
           Z.Zhao et al, Recommending What Video to Watch Next: A Multitask Ranking System, RecSys 2019.
           Hongyan Tang, Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations, RecSys 2020.
 
+5 PLE 也实现了下，一起放在mmoe_model文件夹下了，使用时把mmoe.py中导入模型改为PLE就行了。实验结果与MMOE差不多。
+实验结果(AUC)：'income'：0.939, 'marital': 0.979 
 
