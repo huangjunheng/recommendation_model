@@ -38,4 +38,4 @@
 
 实验结果(AUC): 0.743
 
-参考论文：HGUO et al, DeepFM: a factorization-machine based neural network for CTR prediction, IJCAI 2017
+参考论文：HGUO et al, DeepFM: a factorization-machine based neural network for CTR prediction, IJCAI 2017.
