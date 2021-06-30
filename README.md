@@ -32,4 +32,6 @@
 
 5 PLE 也实现了下，一起放在mmoe_model文件夹下了，使用时把mmoe.py中导入模型改为PLE就行了。实验结果与MMOE差不多。
 实验结果(AUC)：'income'：0.939, 'marital': 0.979 
-
+6 实现DeepFM，在sample Criteo（是对kaggle Criteo数据集的采样，有1000000个样本）数据上实验了一下，主要参考了这位的代码 https://blog.csdn.net/springtostring/article/details/108157070 但我觉得他的模型部分写的不太对 又自己重新写了。
+实验结果(AUC): 0.743
+参考论文：HGUO et al, DeepFM: a factorization-machine based neural network for CTR prediction, IJCAI 2017
