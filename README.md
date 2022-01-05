@@ -39,3 +39,9 @@
 实验结果(AUC): 0.743
 
 参考论文：HGUO et al, DeepFM: a factorization-machine based neural network for CTR prediction, IJCAI 2017.
+
+7. 实现NFM, 数据集同上，主要参考DeepCTR，
+
+实验结果(AUC): 0.710
+
+参考论文：Xiangnan He et al, Neural Factorization Machines for Sparse Predictive Analytics, SIGIR 2017.
