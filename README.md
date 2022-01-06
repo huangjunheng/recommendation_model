@@ -45,3 +45,9 @@
 实验结果(AUC): 0.710
 
 参考论文：Xiangnan He et al, Neural Factorization Machines for Sparse Predictive Analytics, SIGIR 2017.
+
+8 实现DCN，数据集及参考同上
+
+实验结果(AUC): 0.750
+
+参考论文：Ruoxi Wang et al, Deep & Cross Network for Ad Click Predictions, ADKDD 2017.
