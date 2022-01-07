@@ -51,3 +51,9 @@
 实验结果(AUC): 0.750
 
 参考论文：Ruoxi Wang et al, Deep & Cross Network for Ad Click Predictions, ADKDD 2017.
+
+9 实现AFM, 数据集及参考同上
+
+实验结果(AUC): 0.715
+
+参考论文：Jun Xiao et al, Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks, IJCAI 2017.
