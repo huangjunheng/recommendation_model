@@ -57,3 +57,9 @@
 实验结果(AUC): 0.715
 
 参考论文：Jun Xiao et al, Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks, IJCAI 2017.
+
+10 实现AutoInt, 数据集及参考同上
+
+实验结果(AUC)：0.717
+
+参考论文：Weiping Song et al, AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks, CIKM 2019.
