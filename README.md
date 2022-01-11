@@ -82,3 +82,9 @@
 实验结果(AUC)：0.728
 
 参考论文：Heng-Tze Cheng et al, Wide & Deep Learning for Recommender Systems, RecSys workshop/dlrs 2016.
+
+14 实现DCN-v2，数据集及参考同上
+
+实验结果(AUC)：0.748
+
+参考论文：Ruoxi Wang et al, DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems, WWW 2021.
