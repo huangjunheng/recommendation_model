@@ -69,3 +69,9 @@
 实验结果(AUC)：0.735
 
 参考论文：Yi Yang et al, Operation-aware Neural Networks for user response prediction, Neural Networks 2020.
+
+12 实现FiBiNET，数据集及参考同上
+
+实验结果(AUC)：0.698
+
+参考论文：Tongwen Huang et al, FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction, RecSys 2019.
