@@ -34,6 +34,7 @@
 
 实验结果(AUC)：'income'：0.939, 'marital': 0.979 
 
+
 6 实现DeepFM，在sample Criteo（是对kaggle Criteo数据集的采样，有1000000个样本）数据上实验了一下，主要参考了这位的代码 https://blog.csdn.net/springtostring/article/details/108157070 但我觉得他的模型部分写的不太对 又自己重新写了。
 
 实验结果(AUC): 0.743
@@ -75,3 +76,9 @@
 实验结果(AUC)：0.698
 
 参考论文：Tongwen Huang et al, FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction, RecSys 2019.
+
+13 实现Wide&Deep，数据集及参考同上
+
+实验结果(AUC)：0.728
+
+参考论文：Heng-Tze Cheng et al, Wide & Deep Learning for Recommender Systems, RecSys workshop/dlrs 2016.
