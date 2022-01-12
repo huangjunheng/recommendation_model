@@ -88,3 +88,9 @@
 实验结果(AUC)：0.748
 
 参考论文：Ruoxi Wang et al, DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems, WWW 2021.
+
+15 实现AFN，数据集及参考同上
+
+实验结果(AUC)：0.720
+
+参考论文：Weiyu Cheng et al, Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions, AAAI 2020.
