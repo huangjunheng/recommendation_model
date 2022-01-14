@@ -94,3 +94,9 @@
 实验结果(AUC)：0.720
 
 参考论文：Weiyu Cheng et al, Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions, AAAI 2020.
+
+16 实现DCAP，数据集同上
+
+实验结果(AUC)：0.709
+
+参考论文：Zekai Chen et al, DCAP: Deep Cross Attentional Product Network for User Response Prediction, CIKM 2021.
