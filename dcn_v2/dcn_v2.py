@@ -44,7 +44,7 @@ class DNN(nn.Module):
         for i in range(len(self.linear)):
             fc = self.linear[i](inputs)
             fc = self.activation(fc)
-            fc - self.dropout(fc)
+            fc = self.dropout(fc)
             inputs = fc
         return inputs
 
